@@ -33,9 +33,14 @@ class SobreMi:
 
 <!-- Personaliza los iconos según las herramientas que uses. -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github&amp;theme=dark" alt="Python, C++, HTML, CSS, Git y GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github&amp;theme=dark" alt="Python, C++, HTML, CSS, Git, GitHub, SQL y Postgress SQL" />
 </p>
-
+### 📫 Contacto
+    <p align="center">
+      <a href="https://www.linkedin.com/in/Jorge Luis Castillo Durand/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Conecta conmigo en LinkedIn" />
+      </a>
+    </p>
 ### 🎯 En qué quiero seguir creciendo
 
 - 💻 Programación y desarrollo de software.
