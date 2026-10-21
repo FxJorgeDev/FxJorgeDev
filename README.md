@@ -11,7 +11,7 @@ Me gusta la tecnología, aprender cosas nuevas y convertir ideas en proyectos se
 
 ---
 
-### 💻 Un poco sobre mí
+💻 Un poco sobre mí
 
 ```python
 class SobreMi:
@@ -29,13 +29,13 @@ class SobreMi:
 
 ---
 
-### 🛠️ Tecnologías que estoy explorando
+🛠️ Tecnologías que estoy explorando
 
 <!-- Personaliza los iconos según las herramientas que uses. -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github&amp,sql,porstgress,c++,c#;theme=dark" alt="Python, C++, C#,HTML, CSS, Git, GitHub, SQL y Postgress SQL" />
 </p>
-### 📫 Contacto
+📫 Contacto
     <p align="center">
       <a
         href="https://www.linkedin.com/in/jorge-luis-castillo-durand-b6623b432/?isSelfProfile=true">
@@ -48,7 +48,7 @@ class SobreMi:
         <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo electrónico" />
       </a>
     </p>
-### 🎯 En qué quiero seguir creciendo
+🎯 En qué quiero seguir creciendo
 
 - 💻 Programación y desarrollo de software.
 - 🗃️ Bases de datos y organización de la información.
