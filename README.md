@@ -13,7 +13,7 @@ Me gusta la tecnología, aprender cosas nuevas y convertir ideas en proyectos se
 💻 Un poco sobre mí
 
 ```python
-class SobreMi:
+class Sobre Mi:
     nombre = "Jorge Luis Castillo Durand"
     universidad = "Universidad Peruana de Ciencias Aplicadas"
     carrera = "Ingeniería de Sistemas de la Información desde Agosto del 2023"
@@ -30,9 +30,13 @@ class SobreMi:
 
 🛠️ Tecnologías que estoy explorando
 
-<!-- Personaliza los iconos según las herramientas que uses. -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github&amp,sql,porstgress,c++,c#;theme=dark" alt="Python, C++, C#,HTML, CSS, Git, GitHub, SQL y Postgress SQL" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github&amp;theme=dark" alt="Python, C++, HTML, CSS, Git y GitHub" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
 </p>
 📫 Contacto
     <p align="center">
@@ -43,7 +47,7 @@ class SobreMi:
       <a href="https://www.instagram.com/afx_jorge06/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram" />
       </a>
-      <a href="mailto:jorgeluis432cas@gmail.com">
+      <a href="mailto:u20241f270@upc.edu.pe">
         <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Correo electrónico" />
       </a>
     </p>
@@ -51,5 +55,6 @@ class SobreMi:
 
 - 💻 Programación y desarrollo de software.
 - 🗃️ Bases de datos y organización de la información.
+- 🧩 Analisis de bases de datos con distintas herramientas
 
 ---
