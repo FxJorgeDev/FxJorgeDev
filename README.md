@@ -10,7 +10,6 @@ Me gusta la tecnología, aprender cosas nuevas y convertir ideas en proyectos se
 </div>
 
 ---
-
 💻 Un poco sobre mí
 
 ```python
